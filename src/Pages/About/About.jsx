@@ -14,11 +14,19 @@ export default class About extends Component {
 
               <div className="LineAfter col-1"></div>
             </div>
-            <div className="row">
-            <p className="col-6">
-            Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
-            <p className="col-6">
-            Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
+            <div className="row ">
+              <p className="col-6 ">
+                Freelancer is a free bootstrap theme created by Route. The
+                download includes the complete source files including HTML, CSS,
+                and JavaScript as well as optional SASS stylesheets for easy
+                customization.
+              </p>
+              <p className="col-6 ">
+                Freelancer is a free bootstrap theme created by Route. The
+                download includes the complete source files including HTML, CSS,
+                and JavaScript as well as optional SASS stylesheets for easy
+                customization.
+              </p>
             </div>
           </div>
         </div>
