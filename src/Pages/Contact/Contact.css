@@ -1,0 +1,15 @@
+
+
+.FontColor{
+    color: #2c3e50;
+}
+
+
+
+
+.ContactLine{
+    content: "";
+    height: 4px;
+    background-color:solid black;
+   
+}

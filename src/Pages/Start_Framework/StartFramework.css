@@ -1,0 +1,28 @@
+.StartFramework{
+    background-color: #1abc9c ;
+}
+
+
+
+.title{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    column-gap: 1.6rem;
+}
+
+
+
+.LineBefore{
+    content: "";
+    height: 4px;
+    background-color: white;
+    
+    
+}
+
+.LineAfter{
+    content: "";
+    height: 4px;
+    background-color: white;
+}
